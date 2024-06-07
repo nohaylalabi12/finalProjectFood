@@ -1,0 +1,4 @@
+ok what i want in the super admin pannel ; i want it to delete restaurants or clients or delivery man
+
+
+in delivery service i want that the driver enter the state for example(ABC place) , he will see all the orders in the same state , all the orders of the restaurant that are in the same state of delivery that he chose, and then he will accept the order and update the status 
